@@ -1,0 +1,35 @@
+conitional statements
+---------------------
+1.simple if
+2.if else
+3.elif ladder
+4.nested if
+
+
+simple if
+---------
+if cond:
+    #statements
+
+2.if else
+---------
+if cond:
+  #statements
+else:
+    #statements
+ 
+
+3.elif ladder
+-------------
+if cond:
+    #statements 
+elif cond:
+     #statements
+else(optional)
+     #statements
+
+4.nested if
+------------
+if cond:
+    if cond:
+        #sataments
