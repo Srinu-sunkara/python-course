@@ -1,0 +1,18 @@
+function
+---------
+function is a block of reusable code its used for specific task
+
+advantages of function
+----------------------
+1. We don't need to write same logic repeatedly
+2. A large program can be divided into smaller functions
+3. Easy debugginng: if something goes wronng you can check the particular function
+4. A function can send a result back using return
+5. A function accept input values
+6. Makes program easier and understand
+7. Code reusable
+8. A function is defines as keyword def()
+9. Functions are two types : Built-in function,user defined function
+
+
+
